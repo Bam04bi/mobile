@@ -2,6 +2,10 @@
 # Réservation des Terrains
 
 Cette application est  dédiée aux opérations sur le terrain simplifient les processus pour permettre aux utilisateurs de mener à bien leurs tâches. Les applications de terrain utilisent les technologies de localisation pour la collecte de données, la coordination des équipes, le calcul d’itinéraire et la navigation, ainsi que le suivi de la localisation du personnel pour rationaliser les opérations sur le terrain.
+# Architecture de l'application 
+
+
+![App Screenshot](https://github.com/Bam04bi/mobile/blob/main/archi/intro.jpeg?raw=true)
 
 # Fonctionnalités
 
@@ -37,6 +41,11 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 - Ajouter le SDK propre à propre IDE
 - Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
 - Ouvrez le fichier ApiController dns le package controller et accédez la variable d'URL suivante : http://votre_address_ip:8080/la_valeur_du_request_mapping 
+
+# Architecture de l'application 
+
+
+![App Screenshot](https://github.com/Bam04bi/mobile/blob/main/archi/archi.jpeg?raw=true)
 
 # Screenshot de l'application
 
