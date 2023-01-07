@@ -38,6 +38,27 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 - Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
 - Ouvrez le fichier ApiController dns le package controller et accédez la variable d'URL suivante : http://votre_address_ip:8080/la_valeur_du_request_mapping 
 
+# Screenshot de l'application
+
+## Home page : 
+
+![App Screenshot](https://raw.githubusercontent.com/hamzakarouane/hh/master/screenshots/Screenshot%202023-01-07%20153714.png)
+
+## details page : 
+
+![App Screenshot](https://raw.githubusercontent.com/hamzakarouane/hh/master/screenshots/screen1.png)
+
+## localisation user :
+
+![App Screenshot](https://raw.githubusercontent.com/hamzakarouane/hh/master/screenshots/Screenshot%202023-01-07%20154020.png)
+
+## localistion Stadium :
+
+![App Screenshot](https://raw.githubusercontent.com/hamzakarouane/hh/master/screenshots/Screenshot%202023-01-07%20153941.png)
+
+![App Screenshot](https://raw.githubusercontent.com/hamzakarouane/hh/master/screenshots/Screenshot%202023-01-07%20153922.png)
+
+
 ## Authors
 
 Ce projet a été réalisé par : 
