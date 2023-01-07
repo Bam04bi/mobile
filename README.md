@@ -38,7 +38,7 @@ Pour déployer ce projet sur votre serveur d'application, suivez les étapes sui
 
 - Téléchargez le projet sur votre ordinateur
 - Ouvrez-le dans votre IDE Android studio
-- Ajouter le SDK propre à propre IDE
+- Ajouter le SDK propre à votre IDE
 - Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
 - Ouvrez le fichier ApiController dns le package controller et accédez la variable d'URL suivante : http://votre_address_ip:8080/la_valeur_du_request_mapping 
 
